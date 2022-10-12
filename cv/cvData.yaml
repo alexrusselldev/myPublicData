@@ -1,0 +1,91 @@
+aboutMe: >-
+  I am an energetic individual with a passion for learning through problem solving. I am outgoing in the workspace and
+  am not afraid to present my ideas and solutions when discussing a problem. Equally, I feel I am able to consider
+  others’ ideas objectively and work with them to achieve it. A good solution to a problem always excites me!
+qualifications:
+- subject: English
+  level: GCSE
+  grade: C
+- subject: Maths
+  level: GCSE
+  grade: A
+- subject: Science
+  level: GCSE
+  grade: C
+- subject: Additional Science
+  level: GCSE
+  grade: A
+- subject: Statistics
+  level: GCSE
+  grade: A
+workHistory:
+- role: Front of House
+  employer: The Cliff Hotel and Spa
+  started: June 2016
+  ended: August 2017
+  description: >-
+    The Cliff Hotel and Spa was my first job in hospitality, giving me a good introduction into how a busy hotel works
+    and how to efficiently fill my roles and work as a team in this environment.
+  skills:
+  - Restaurant Service
+  - EPOS Systems
+  - Bookings and Billing
+- role: Front of House / Reception
+  employer: Hammet House
+  started: August 2017
+  ended: August 2018
+  description: >-
+    Hammet @ Castell Malgwyn is a small luxury hotel. My time here gave me a very in depth experience of everything from
+    the general running of a hotel to fine dining restaurant service and weddings with around 200 guests. I had a great
+    deal of oversight from a lot of people with a lot of experience in the industry, allowing me to build and grow my
+    skills.
+  skills:
+  - General Maintenance
+  - Reception Duties
+  - Restaurant Service
+  - Barista Duties
+  - Cocktail Making
+  - Bar Service
+- role: FOH and Barista
+  employer: Food for Thought
+  started: September 2018
+  ended: May 2019
+  description: >-
+    My time at Food for Thought has given me a lot of experience in the setting of a very busy cafe with a high
+    turnaround on tables.
+  skills:
+  - Barista Duties
+  - Cafe Service
+- role: Pizza Chef
+  employer: Pizza Express
+  started: July 2019
+  ended: January 2021
+  description: >-
+    Working at Pizza Express is currently giving me a lot of experience working in a busy kitchen with a high
+    turnaround of tables. This job relies heavily on my time management skills in order to prioritise and complete tasks
+    as efficiently as possible.
+  skills:
+  - Kitchen Duties - Prep etc.
+  - Stock Management
+  - Ordering
+- role: Junior Developer
+  employer: SkyliftUAV
+  started: October 2021
+  ended: November 2022
+  description: >-
+    My work at Skylift UAV has been very varied, focusing mainly on web development but also providing me insight into
+    other areas of dev work, including DevOps, Systems Architecture and Project Management. As a tech startup the dev
+    team was very small and as such I had a direct line to and close mentorship from two very experienced developers.
+    \nI spent a lot of my time building, maintaining and extending Node.js microservices, using Typescript. I used
+    TypeORM and Mongoose to connect to MySQL and MongoDB databases respectively.\nI also spent time building a NestJS
+    API and React app as part of a new system being developed at the company. I spent a lot of time developing this
+    project and learned a great deal during this time. I became a lot more comfortable with doing research to solve my
+    problems.
+  skills:
+  - Javascript
+  - Typescript
+  - Node.js
+  - NestJS + TypeORM
+  - jQuery
+  - React SPA
+  - MySQL
