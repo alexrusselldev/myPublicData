@@ -1,4 +1,4 @@
-aboutMe: >-
+aboutMe: >
   I am an energetic individual with a passion for learning through problem solving. I am outgoing in the workspace and
   am not afraid to present my ideas and solutions when discussing a problem. Equally, I feel I am able to consider
   others’ ideas objectively and work with them to achieve it. A good solution to a problem always excites me!
@@ -72,15 +72,17 @@ workHistory:
   employer: SkyliftUAV
   started: October 2021
   ended: November 2022
-  description: >-
+  description: >
     My work at Skylift UAV has been very varied, focusing mainly on web development but also providing me insight into
     other areas of dev work, including DevOps, Systems Architecture and Project Management. As a tech startup the dev
     team was very small and as such I had a direct line to and close mentorship from two very experienced developers.
-    /nI spent a lot of my time building, maintaining and extending Node.js microservices, using Typescript. I used
-    TypeORM and Mongoose to connect to MySQL and MongoDB databases respectively./nI also spent time building a NestJS
-    API and React app as part of a new system being developed at the company. I spent a lot of time developing this
-    project and learned a great deal during this time. I became a lot more comfortable with doing research to solve my
-    problems.
+    
+    I spent a lot of my time building, maintaining and extending Node.js microservices, using Typescript. I used
+    TypeORM and Mongoose to connect to MySQL and MongoDB databases respectively.
+    
+    I also spent time building a NestJS API and React app as part of a new system being developed at the company. I
+    spent a lot of time developing this project and learned a great deal during this time. I became a lot more
+    comfortable with doing research to solve my problems.
   skills:
   - Javascript
   - Typescript
